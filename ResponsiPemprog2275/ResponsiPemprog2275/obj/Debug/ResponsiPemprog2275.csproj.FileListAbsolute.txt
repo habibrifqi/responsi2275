@@ -1,0 +1,14 @@
+D:\18.11.2275\responsi\ResponsiPemprog2275\ResponsiPemprog2275\obj\Debug\ResponsiPemprog2275.csprojAssemblyReference.cache
+D:\18.11.2275\responsi\ResponsiPemprog2275\ResponsiPemprog2275\obj\Debug\ResponsiPemprog2275.csproj.CoreCompileInputs.cache
+D:\18.11.2275\responsi\ResponsiPemprog2275\ResponsiPemprog2275\bin\Debug\ResponsiPemprog2275.exe.config
+D:\18.11.2275\responsi\ResponsiPemprog2275\ResponsiPemprog2275\bin\Debug\ResponsiPemprog2275.exe
+D:\18.11.2275\responsi\ResponsiPemprog2275\ResponsiPemprog2275\bin\Debug\ResponsiPemprog2275.pdb
+D:\18.11.2275\responsi\ResponsiPemprog2275\ResponsiPemprog2275\obj\Debug\ResponsiPemprog2275.exe
+D:\18.11.2275\responsi\ResponsiPemprog2275\ResponsiPemprog2275\obj\Debug\ResponsiPemprog2275.pdb
+F:\donwload\New folder (13)\responsi\ResponsiPemprog2275\ResponsiPemprog2275\bin\Debug\ResponsiPemprog2275.exe.config
+F:\donwload\New folder (13)\responsi\ResponsiPemprog2275\ResponsiPemprog2275\bin\Debug\ResponsiPemprog2275.exe
+F:\donwload\New folder (13)\responsi\ResponsiPemprog2275\ResponsiPemprog2275\bin\Debug\ResponsiPemprog2275.pdb
+F:\donwload\New folder (13)\responsi\ResponsiPemprog2275\ResponsiPemprog2275\obj\Debug\ResponsiPemprog2275.csprojAssemblyReference.cache
+F:\donwload\New folder (13)\responsi\ResponsiPemprog2275\ResponsiPemprog2275\obj\Debug\ResponsiPemprog2275.csproj.CoreCompileInputs.cache
+F:\donwload\New folder (13)\responsi\ResponsiPemprog2275\ResponsiPemprog2275\obj\Debug\ResponsiPemprog2275.exe
+F:\donwload\New folder (13)\responsi\ResponsiPemprog2275\ResponsiPemprog2275\obj\Debug\ResponsiPemprog2275.pdb
